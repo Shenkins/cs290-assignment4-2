@@ -1,0 +1,11 @@
+Start: Sat, 09 May 2015 09:12:00 -0600
+End: Thu, 09 May 2015 12:52:25 -0600
+Tasks: Went through module. Read through materials on MySQL and PHP integration. Began work on index.php.
+
+Start: Sat, 09 May 2015 1:47:00 -0600
+End: Sat, 09 May 2015 23:31:56 -0600
+Tasks: Finished index.php, still need to debug and test. Threw together a css stylesheet.
+
+Start: Sun, 10 May 2015 09:02:23 -0600
+End: Sun, 10 May 2015 12:30:19 -0600
+Tasks: Finished testing and debugging. Adjusted stylesheet. Submitting assignment.
